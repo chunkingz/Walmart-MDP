@@ -11,4 +11,23 @@
     <string name="dont_have_an_account">Don\'t have an account?</string>
     <string name="create_a_new_account">Create a new account</string>
     <string name="strike_through_line">Strike Through Line</string>
+    <string name="welcomeTxt">welcome hello@gmail.com</string>
+    <string name="shop_by_categories">Shop by Categories</string>
+    <string name="category1">category1</string>
+    <string name="electronics">Electronics</string>
+    <string name="category2">category2</string>
+    <string name="clothing">Clothing</string>
+    <string name="category3">category3</string>
+    <string name="beauty">Beauty</string>
+    <string name="category4">category4</string>
+    <string name="food">Food</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="create_account_btn">Create Account</string>
+    <string name="first_name">First name *</string>
+    <string name="enter_first_name_hint">enter first name</string>
+    <string name="last_name">Last name *</string>
+    <string name="enter_last_name_hint">enter last name</string>
+    <string name="email_address_2">Email address *</string>
+    <string name="password_2">Password *</string>
+    <string name="required_field">* required field</string>
 </resources>
